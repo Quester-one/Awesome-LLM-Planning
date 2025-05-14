@@ -40,6 +40,7 @@
 * **PROC2PDDL: Open-Domain Planning Representations From Texts** [![arXiv](https://img.shields.io/badge/arXiv-2024.03-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
 * **Planetarium: A Rigorous Benchmark For Translating Text To Structured Planning Languages** [![arXiv](https://img.shields.io/badge/arXiv-2024.07-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
 * **Autoplanbench: Automatically Generating Benchmarks For LLM Planners From PDDL** [![arXiv](https://img.shields.io/badge/arXiv-2023.11-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
+#### 1.1.2 Memory Enhanced Methods 
 * **A Survey On Large Language Model Based Autonomous Agents** [![Front. Comput. Sci](https://img.shields.io/badge/Front.Comput.Sci-2024-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
 * **The Rise And Potential Of Large Language Model Based Agents: A Survey** [![arXiv](https://img.shields.io/badge/arXiv-2023.09-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
 * **Explicit Memory Learning with Expectation Maximization** [![EMNLP](https://img.shields.io/badge/EMNLP-2024-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
@@ -65,6 +66,8 @@
 * **Crafting Personalized Agents Through Retrieval-Augmented Generation On Editable Memory Graphs** [![arXiv](https://img.shields.io/badge/arXiv-2024-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
 * **Exploratory Retrieval-Augmented Planning For Continual Embodied Instruction Following** [![arXiv](https://img.shields.io/badge/arXiv-2024-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
 * **Learning Memory Mechanisms For Decision Making Through Demonstrations** [![arXiv](https://img.shields.io/badge/arXiv-2024.11-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
+### 1.2 Finetuning-based Methods
+#### 1.2.1 Imitation Learning-based Methods 
 * **You Only Look At Screens: Multimodal Chain-Of-Action Agents** [![arXiv](https://img.shields.io/badge/arXiv-2023.09-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
 * **Multimodal Web Navigation With Instruction-Finetuned Foundation Models** [![arXiv](https://img.shields.io/badge/arXiv-2023.05-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
 * **Ask-Before-Plan: Proactive Language Agents For Real-World Planning** [![arXiv](https://img.shields.io/badge/arXiv-2024.06-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
@@ -99,12 +102,12 @@
 * **Mixture-Of-Agents Enhances Large Language Model Capabilities** [![arXiv](https://img.shields.io/badge/arXiv-2024.06-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
 * **Camphor: Collaborative Agents For Multi-Input Planning And High-Order Reasoning On Device** [![arXiv](https://img.shields.io/badge/arXiv-2024.10-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
 * **Agent Planning With World Knowledge Model** [![arXiv](https://img.shields.io/badge/arXiv-2024-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
+#### 1.2.2 Feedback-based Methods
 * **A Real-World Webagent With Planning, Long Context Understanding, And Program Synthesis** [![arXiv](https://img.shields.io/badge/arXiv-2023.07-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
 * **Mixture-Of-Agents Enhances Large Language Model Capabilities** [![arXiv](https://img.shields.io/badge/arXiv-2024.06-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
 * **Camphor: Collaborative Agents For Multi-Input Planning And High-Order Reasoning On Device** [![arXiv](https://img.shields.io/badge/arXiv-2024.10-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
 * **Closed-Loop Long-Horizon Robotic Planning Via Equilibrium Sequence Modeling** [![arXiv](https://img.shields.io/badge/arXiv-2024.10-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
 * **Autowebglm: A Large Language Model-Based Web Navigating Agent** [![arXiv](https://img.shields.io/badge/arXiv-2024-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
-* **Agent Planning With World Knowledge Model** [![arXiv](https://img.shields.io/badge/arXiv-2024-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
 * **Self-Playing Adversarial Language Game Enhances LLM Reasoning** [![arXiv](https://img.shields.io/badge/arXiv-2024.04-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
 * **Mastering Chess And Shogi By Self-Play With A General Reinforcement Learning Algorithm** [![arXiv](https://img.shields.io/badge/arXiv-2017.12-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
 * **Advancing LLM Reasoning Generalists With Preference Trees** [![arXiv](https://img.shields.io/badge/arXiv-2024.04-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
@@ -143,6 +146,8 @@
 * **Enhancing LLM Reasoning Via Critique Models With Test-Time And Training-Time Supervision** [![arXiv](https://img.shields.io/badge/arXiv-2024.11-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
 * **Thinking Llms: General Instruction Following With Thought Generation** [![arXiv](https://img.shields.io/badge/arXiv-2024.10-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
 * **Error Classification Of Large Language Models On Math Word Problems: A Dynamically Adaptive Framework** [![arXiv](https://img.shields.io/badge/arXiv-2025.01-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
+### 1.3 Searching-based Methods
+#### 1.3.1 Decomposition-based Methods
 * **Rada: Retrieval-Augmented Web Agent Planning With Llms** [![arXiv](https://img.shields.io/badge/arXiv-2024-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
 * **Meta-Task Planning For Language Agents** [![arXiv](https://img.shields.io/badge/arXiv-2024.05-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
 * **Agent-Oriented Planning In Multi-Agent Systems (2024)** [![arXiv](https://img.shields.io/badge/arXiv--red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
@@ -176,6 +181,7 @@
 * **Strength Lies In Differences! Improving Strategy Planning For Non-Collaborative Dialogues Via Diversified User Simulation** [![arXiv](https://img.shields.io/badge/arXiv-2024.03-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
 * **Adapt: As-Needed Decomposition And Planning With Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2023.11-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
 * **Travelagent: An Ai Assistant For Personalized Travel Planning** [![arXiv](https://img.shields.io/badge/arXiv-2024.09-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
+#### 1.3.2 Exploration-based Methods
 * **Thinking, Fast And Slow** [![arXiv](https://img.shields.io/badge/arXiv-2011-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
 * **The Empirical Case For Two Systems Of Reasoning.** [![arXiv](https://img.shields.io/badge/arXiv-1996-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
 * **Who Is Rational?: Studies Of Individual Differences In Reasoning** [![arXiv](https://img.shields.io/badge/arXiv-1999-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
@@ -229,6 +235,7 @@
 * **Let'S Verify Step By Step** [![arXiv](https://img.shields.io/badge/arXiv-2023-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
 * **Qlass: Boosting Language Agent Inference Via Q-Guided Stepwise Search** [![arXiv](https://img.shields.io/badge/arXiv-2025.02-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
 * **Scaling Autonomous Agents Via Automatic Reward Modeling And Planning** [![arXiv](https://img.shields.io/badge/arXiv-2025.02-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
+#### 1.3.3 Decoding-based Methods
 * **Speech And Language Processing: An Introduction To Natural Language Processing, Computational Linguistics, And Speech Recognition** [![arXiv](https://img.shields.io/badge/arXiv--red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
 * **Sequence Transduction With Recurrent Neural Networks** [![arXiv](https://img.shields.io/badge/arXiv-2012.11-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
 * **Self-Evaluation Guided Beam Search For Reasoning** [![arXiv](https://img.shields.io/badge/arXiv-2024-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
