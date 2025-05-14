@@ -1,1 +1,1 @@
-# awesome-llm-based-planning
+# A Comprehensive Survey on Large Language Model Based Planning
