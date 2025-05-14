@@ -1,7 +1,7 @@
 # A Comprehensive Survey on Large Language Model Based Planning
 
-## Planning Methods
+## 1.Planning Methods
 
-### External Module Augmented Methods
+### 1.1External Module Augmented Methods
 
-#### Planner Enhanced Methods
+#### 1.1.1Planner Enhanced Methods
