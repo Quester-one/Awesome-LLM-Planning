@@ -1,6 +1,8 @@
 # A Comprehensive Survey on Large Language Model Based Planning
 
-Welcome to the **Awesome-LLM-Planning** repository! This repository is a curated collection of the most influential papers, and benchmarks related to **Large Language Models (LLMs) based Agent Planning**.
+Welcome to the **Awesome-LLM-Planning** repository! This repository is a curated collection of the most influential papers, and benchmarks related to **Large Language Models (LLMs) based Agent Planning**. For a detailed introduction, please refer our survey paper:
+
+**A Comprehensive Survey on Large Language Model Based Planning** 
 
 ## 1 Planning Methods
 
