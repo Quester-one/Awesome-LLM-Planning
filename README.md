@@ -11,7 +11,7 @@ Welcome to the **Awesome-LLM-Planning** repository! This repository is a curated
 #### 1.1.1 Planner Enhanced Methods 
 
 * **LLM+P: Empowering Large Language Models with Optimal Planning Proficiency** [![arXiv](https://img.shields.io/badge/arXiv-2023.04-red)](https://arxiv.org/abs/2304.11477) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/Cranial-XIX/llm-pddl)
-* **Dynamic Planning With A LLM** [![arXiv](https://img.shields.io/badge/arXiv-2023.08-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
+* **Dynamic Planning With A LLM** [![arXiv](https://img.shields.io/badge/arXiv-2023.08-red)](https://arxiv.org/abs/2308.06391) [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
 * **PDDLEGO: Iterative Planning In Textual Environments** [![arXiv](https://img.shields.io/badge/arXiv-2024.05-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
 * **PROC2PDDL: Open-Domain Planning Representations From Texts** [![arXiv](https://img.shields.io/badge/arXiv-2024.03-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
 * **Can Llms Plan Paths With Extra Hints From Solvers?** [![arXiv](https://img.shields.io/badge/arXiv-2024.10-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
