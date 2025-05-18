@@ -4,6 +4,17 @@ Welcome to the **Awesome-LLM-Planning** repository! This repository is a curated
 
 **A Comprehensive Survey on Large Language Model Based Planning** 
 
+
+---
+<p>
+  <img src="docs/overview.png" width="95%" height="95%" />
+</p>
+An overview of LLM-based agent planning, covering its definition, methods, evaluation approaches, and analysis and interpretation.
+
+---
+
+
+
 ## 1 Planning Methods
 
 ### 1.1 External Module Augmented Methods
