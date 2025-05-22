@@ -393,7 +393,7 @@ The performance comparison of different models and methods in embodied.This refe
 ### 3.2 Internal Interpretation
 * **Do Large Language Models Latently Perform Multi-Hop Reasoning?** [![ACL](https://img.shields.io/badge/ACL-2024-red)](https://arxiv.org/abs/2402.16837) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/google-deepmind/latent-multi-hop-reasoning)
 * **Do language models plan ahead for future tokens?** [![CoLM](https://img.shields.io/badge/CoLM-2024-red)](https://arxiv.org/abs/2404.00859) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/wiwu2390/FutureGPT2-public)
-* **Unlocking the Future: Exploring Look-Ahead Planning Mechanistic Interpretability in Large Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2024.06-red)](https://arxiv.org/abs/2406.16033)
+* **Unlocking the Future: Exploring Look-Ahead Planning Mechanistic Interpretability in Large Language Models** [![EMNLP](https://img.shields.io/badge/EMNLP-2024-red)](https://arxiv.org/abs/2406.16033)
 * **ALPINE: Unveiling the Planning Capability of Autoregressive Learning in Language Models** [![NIPS](https://img.shields.io/badge/NIPS-2024-red)](https://arxiv.org/abs/2405.09220)
 * **Iteration Head: A Mechanistic Study of Chain-of-Thought** [![NIPS](https://img.shields.io/badge/NIPS-2024-red)](https://arxiv.org/abs/2406.02128)
 
