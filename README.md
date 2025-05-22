@@ -332,7 +332,7 @@ An overview of LLM-based agent planning, covering its definition, methods, evalu
 
 ### 2.2 Evaluation Metrics
 
-<p>
+<p align="center">
   <img src="docs/sankeydiagram.png" width="95%" height="95%" />
 </p>
 The corresponding relationship between planning evaluation metrics and some typical planning datasets. The left three columns represent evaluation metrics of different granularities, while the rightmost column denotes the dataset.
@@ -358,7 +358,7 @@ The corresponding relationship between planning evaluation metrics and some typi
 * **Mind2Web: Towards a Generalist Agent for the Web** [![NIPS](https://img.shields.io/badge/NIPS-2023-red)](https://arxiv.org/abs/2306.06070) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/OSU-NLP-Group/Mind2Web)
 * **Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control** [![ICLR](https://img.shields.io/badge/ICLR-2024-red)](https://arxiv.org/abs/2306.07863) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/ltzheng/Synapse)
 
-<p>
+<p align="center">
   <img src="docs/WebNavigationPerformance.png" width="95%" height="95%" />
 </p>
 The performance comparison of different models and methods in web navigation.The value of Mind2Web is the average step success rate of the three subsets.The value of Webarena is task successrate.The value of AITW is step success rate of the subsets.The value of ScreenSpot is step success rate.
@@ -374,7 +374,30 @@ The performance comparison of different models and methods in web navigation.The
 * **KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents** [![NAACL](https://img.shields.io/badge/NAACL-2025-red)](https://arxiv.org/abs/2403.03101) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/zjunlp/KnowAgent)
 * **AgentTuning: Enabling Generalized Agent Abilities for LLMs** [![arXiv](https://img.shields.io/badge/arXiv-2023.10-red)](https://arxiv.org/abs/2310.12823) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/THUDM/AgentTuning)
 
-<p>
-  <img src="docs/EmbodiedScenariosPerformance.png" width="75%" height="75%" />
+<p align="center">
+  <img src="docs/EmbodiedScenariosPerformance.png" width="65%" height="65%" />
 </p>
 The performance comparison of different models and methods in embodied.This refers to the average of seen and unseen in the original paper, or the value reported in the original paper.
+
+## 3 Analysis And Interpretation
+### 3.1 External Interpretation
+* **The pitfalls of next-token prediction** [![ICML](https://img.shields.io/badge/ICML-2024-red)](https://arxiv.org/abs/2403.06963) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/gregorbachmann/Next-Token-Failures)
+* **Revealing the Barriers of Language Agents in Planning** [![NAACL](https://img.shields.io/badge/NAACL-2025-red)](https://arxiv.org/abs/2410.12409) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/hsaest/Agent-Planning-Analysis)
+* **To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning** [![ICLR](https://img.shields.io/badge/ICLR-2025-red)](https://arxiv.org/abs/2409.12183) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/Zayne-sprague/To-CoT-or-not-to-CoT)
+* **Chain of Thoughtlessness? An Analysis of CoT in Planning** [![NIPS](https://img.shields.io/badge/NIPS-2024-red)](https://arxiv.org/abs/2405.04776) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/karthikv792/cot-planning)
+* **Confidence Matters: Revisiting Intrinsic Self-Correction Capabilities of Large Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2024.02-red)](https://arxiv.org/abs/2402.12563) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/MBZUAI-CLeaR/IoE-Prompting)
+* **Self-Refine: Iterative Refinement with Self-Feedback** [![NIPS](https://img.shields.io/badge/NIPS-2023-red)](https://arxiv.org/abs/2303.17651) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/madaan/self-refine)
+* **Small Language Models Need Strong Verifiers to Self-Correct Reasoning** [![ACL](https://img.shields.io/badge/ACL-2024-red)](https://arxiv.org/abs/2404.17140) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/yunx-z/SCORE)
+* **A Theoretical Understanding of Self-Correction through In-context Alignment** [![NIPS](https://img.shields.io/badge/NIPS-2024-red)](https://arxiv.org/abs/2405.18634) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/yifeiwang77/Self-Correction)
+
+### 3.2 Internal Interpretation
+* **Do Large Language Models Latently Perform Multi-Hop Reasoning?** [![ACL](https://img.shields.io/badge/ACL-2024-red)](https://arxiv.org/abs/2402.16837) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/google-deepmind/latent-multi-hop-reasoning)
+* **Do language models plan ahead for future tokens?** [![CoLM](https://img.shields.io/badge/CoLM-2024-red)](https://arxiv.org/abs/2404.00859) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/wiwu2390/FutureGPT2-public)
+* **Unlocking the Future: Exploring Look-Ahead Planning Mechanistic Interpretability in Large Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2024.06-red)](https://arxiv.org/abs/2406.16033)
+* **ALPINE: Unveiling the Planning Capability of Autoregressive Learning in Language Models** [![NIPS](https://img.shields.io/badge/NIPS-2024-red)](https://arxiv.org/abs/2405.09220)
+* **Iteration Head: A Mechanistic Study of Chain-of-Thought** [![NIPS](https://img.shields.io/badge/NIPS-2024-red)](https://arxiv.org/abs/2406.02128)
+
+<p align="center">
+  <img src="docs/interpretation.png" width="50%" height="50%" />
+</p>
+The illustration of external interpretation and internal interpretation, respectively.
