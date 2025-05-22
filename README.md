@@ -209,3 +209,172 @@ An overview of LLM-based agent planning, covering its definition, methods, evalu
 * **Contrastive Decoding Improves Reasoning In Large Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2023.09-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
 * **Grounded Decoding: Guiding Text Generation With Grounded Models For Embodied Agents** [![NIPS](https://img.shields.io/badge/NIPS-2024-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
 
+## 2 Planning Evaluation
+### 2.1 Datasets
+#### 2.1.1 Digital Scenarios
+##### 2.1.1.1 Web Navigation
+* **WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents** [![NIPS](https://img.shields.io/badge/NIPS-2022-red)](https://arxiv.org/abs/2207.01206) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/princeton-nlp/WebShop)
+* **Reinforcement Learning on Web Interfaces Using Workflow-Guided Exploration** [![ICLR](https://img.shields.io/badge/ICLR-2018-red)](https://arxiv.org/abs/1802.08802) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/Farama-Foundation/miniwob-plusplus)
+* **Mind2Web: Towards a Generalist Agent for the Web** [![NIPS](https://img.shields.io/badge/NIPS-2023-red)](https://arxiv.org/abs/2306.06070) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/OSU-NLP-Group/Mind2Web)
+* **WebArena: A Realistic Web Environment for Building Autonomous Agents** [![ICLR](https://img.shields.io/badge/ICLR-2024-red)](https://arxiv.org/abs/2307.13854) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/web-arena-x/webarena)
+* **VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks** [![ACL](https://img.shields.io/badge/ACL-2024-red)](https://arxiv.org/abs/2401.13649) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/web-arena-x/visualwebarena)
+* **WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models** [![ACL](https://img.shields.io/badge/ACL-2024-red)](https://arxiv.org/abs/2401.13919) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/MinorJerry/WebVoyager)
+* **WebLINX: Real-World Website Navigation with Multi-Turn Dialogue** [![ICML](https://img.shields.io/badge/ICML-2024-red)](https://arxiv.org/abs/2402.05930) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/McGill-NLP/weblinx)
+
+##### 2.1.1.2 Mobile Navigation
+* **AndroidWorld: A Dynamic Benchmarking Environment for Autonomous Agents** [![ICLR](https://img.shields.io/badge/ICLR-2025-red)](https://arxiv.org/abs/2405.14573) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/google-research/android_world)
+* **Mapping Natural Language Instructions to Mobile UI Action Sequences** [![ACL](https://img.shields.io/badge/ACL-2020-red)](https://arxiv.org/abs/2005.03776) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/google-research/google-research/tree/master/seq2act)
+* **META-GUI: Towards Multi-modal Conversational Agents on Mobile GUI** [![EMNLP](https://img.shields.io/badge/EMNLP-2022-red)](https://arxiv.org/abs/2205.11029) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://x-lance.github.io/META-GUI-Leaderboard/)
+* **Android in the Wild: A Large-Scale Dataset for Android Device Control** [![NIPS](https://img.shields.io/badge/NIPS-2023-red)](https://arxiv.org/abs/2307.10088) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/google-research/google-research/tree/master/android_in_the_wild)
+* **On the Effects of Data Scale on UI Control Agents** [![NIPS](https://img.shields.io/badge/NIPS-2024-red)](https://arxiv.org/abs/2406.03679) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/google-research/google-research/tree/master/android_control)
+* **Mobile-Env: Building Qualified Evaluation Benchmarks for LLM-GUI Interaction** [![arXiv](https://img.shields.io/badge/arXiv-2023.05-red)](https://arxiv.org/abs/2305.08144) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/X-LANCE/Mobile-Env)
+* **A3: Android Agent Arena for Mobile GUI Agents**  [![arXiv](https://img.shields.io/badge/arXiv-2025.01-red)](https://arxiv.org/abs/2501.01149) 
+
+##### 2.1.1.3 Desktop Navigation
+* **OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments** [![NIPS](https://img.shields.io/badge/NIPS-2024-red)](https://arxiv.org/abs/2404.07972) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/xlang-ai/OSWorld)
+* **AgentStudio: A Toolkit for Building General Virtual Agents** [![ICLR](https://img.shields.io/badge/ICLR-2025-red)](https://arxiv.org/abs/2403.17918) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/ltzheng/agent-studio)
+* **TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks** [![arXiv](https://img.shields.io/badge/arXiv-2024.12-red)](https://arxiv.org/abs/2412.14161) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/TheAgentCompany/TheAgentCompany)
+* **Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale** [![arXiv](https://img.shields.io/badge/arXiv-2024.09-red)](https://arxiv.org/abs/2409.08264) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/microsoft/WindowsAgentArena)
+* **WorkArena: How Capable Are Web Agents at Solving Common Knowledge Work Tasks?** [![ICML](https://img.shields.io/badge/ICML-2024-red)](https://arxiv.org/abs/2403.07718) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/ServiceNow/WorkArena)
+
+#### 2.1.2 Embodied Scenarios
+##### 2.1.2.1 Household Robot
+* **ALFWorld: Aligning Text and Embodied Environments for Interactive Learning** [![ICLR](https://img.shields.io/badge/ICLR-2021-red)](https://arxiv.org/abs/2010.03768) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/alfworld/alfworld)
+* **ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks** [![CVPR](https://img.shields.io/badge/CVPR-2020-red)](https://arxiv.org/abs/1912.01734) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/askforalfred/alfred)
+* **VirtualHome: Simulating Household Activities via Programs** [![CVPR](https://img.shields.io/badge/CVPR-2018-red)](https://arxiv.org/abs/1806.07011) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/xavierpuigf/virtualhome)
+* **ScienceWorld: Is your Agent Smarter than a 5th Grader?** [![EMNLP](https://img.shields.io/badge/EMNLP-2022-red)](https://arxiv.org/abs/2203.07540) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/allenai/ScienceWorld)
+* **Watch-And-Help: A Challenge for Social Perception and Human-AI Collaboration** [![ICLR](https://img.shields.io/badge/ICLR-2021-red)](https://arxiv.org/abs/2010.09890) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/xavierpuigf/watch_and_help)
+* **LangSuitE: Planning, Controlling and Interacting with Large Language Models in Embodied Text Environments** [![ACL](https://img.shields.io/badge/ACL-2024-red)](https://arxiv.org/abs/2406.16294) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/bigai-nlco/langsuite)
+* **ActPlan-1K: Benchmarking the Procedural Planning Ability of Visual Language Models in Household Activities** [![EMNLP](https://img.shields.io/badge/EMNLP-2024-red)](https://arxiv.org/abs/2410.03907) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/HKUST-KnowComp/ActPlan-1K)
+* **PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks** [![ICLR](https://img.shields.io/badge/ICLR-2025-red)](https://arxiv.org/abs/2411.00081) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](http://github.com/facebookresearch/partnr-planner)
+* **Embodied Agent Interface: Benchmarking LLMs for Embodied Decision Making** [![NIPS](https://img.shields.io/badge/NIPS-2024-red)](https://arxiv.org/abs/2410.07166) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/embodied-agent-interface/embodied-agent-interface)
+* **LoTa-Bench: Benchmarking Language-oriented Task Planners for Embodied Agents** [![ICLR](https://img.shields.io/badge/ICLR-2024-red)](https://arxiv.org/abs/2402.08178) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/lbaa2022/LLMTaskPlanning)
+* **GOAT-Bench: A Benchmark for Multi-Modal Lifelong Navigation** [![CVPR](https://img.shields.io/badge/CVPR-2024-red)](https://arxiv.org/abs/2404.06609) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/Ram81/goat-bench)
+* **BEHAVIOR-1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation** [![CoRL](https://img.shields.io/badge/CoRL-2022-red)](https://arxiv.org/abs/2403.09227) [![Code](https://img.shields.io/badge/Code-Dataset-blue)](https://behavior.stanford.edu/behavior-1k)
+
+##### 2.1.2.2 Manipulation Robot
+* **VLMbench: A Compositional Benchmark for Vision-and-Language Manipulation** [![NIPS](https://img.shields.io/badge/NIPS-2022-red)](https://arxiv.org/abs/2206.08522) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/eric-ai-lab/vlmbench)
+* **VLABench: A Large-Scale Benchmark for Language-Conditioned Robotics Manipulation with Long-Horizon Reasoning Tasks** [![arXiv](https://img.shields.io/badge/arXiv-2024.12-red)](https://arxiv.org/abs/2412.18194) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/OpenMOSS/VLABench)
+* **VIMA: General Robot Manipulation with Multimodal Prompts** [![ICML](https://img.shields.io/badge/ICML-2023-red)](https://arxiv.org/abs/2210.03094) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/vimalabs/VIMA)
+* **EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents** [![ICML](https://img.shields.io/badge/ICML-2025-red)](https://arxiv.org/abs/2502.09560) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/EmbodiedBench/EmbodiedBench)
+* **RoCo: Dialectic Multi-Robot Collaboration with Large Language Models** [![ICRA](https://img.shields.io/badge/ICRA-2024-red)](https://arxiv.org/abs/2307.04738) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/MandiZhao/robot-collab)
+
+##### 2.1.2.3 Minecraft Robot
+* **MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge** [![NIPS](https://img.shields.io/badge/NIPS-2022-red)](https://arxiv.org/abs/2206.08853) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/MineDojo/MineDojo)
+* **Craftax: A Lightning-Fast Benchmark for Open-Ended Reinforcement Learning** [![ICML](https://img.shields.io/badge/ICML-2024-red)](https://arxiv.org/abs/2402.16801) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/MichaelTMatthews/Craftax)
+* **MinePlanner: A Benchmark for Long-Horizon Planning in Large Minecraft Worlds** [![ICAPS](https://img.shields.io/badge/ICAPS-2024-red)](https://arxiv.org/abs/2312.12891) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/IretonLiu/mine-pddl/)
+* **TeamCraft: A Benchmark for Multi-Modal Multi-Agent Systems in Minecraft** [![arXiv](https://img.shields.io/badge/arXiv-2024.12-red)](https://arxiv.org/abs/2412.05255) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/teamcraft-bench/teamcraft)
+* **Plancraft: an evaluation dataset for planning with LLM agents** [![arXiv](https://img.shields.io/badge/arXiv-2024.12-red)](https://arxiv.org/abs/2412.21033) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/gautierdag/plancraft)
+* **MindAgent: Emergent Gaming Interaction** [![arXiv](https://img.shields.io/badge/arXiv-2023.09-red)](https://arxiv.org/abs/2309.09971) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/mindagent/mindagent)
+* **On the Utility of Learning about Humans for Human-AI Coordination** [![NIPS](https://img.shields.io/badge/NIPS-2019-red)](https://arxiv.org/abs/1910.05789) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/HumanCompatibleAI/overcooked_ai)
+
+##### 2.1.2.4 Autonomous Driving
+* **PCA-Bench: Evaluating Multimodal Large Language Models in Perception-Cognition-Action Chain** [![ACL](https://img.shields.io/badge/ACL-2024-red)](https://arxiv.org/abs/2402.15527) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/pkunlp-icler/PCA-EVAL)
+* **AlphaDrive: Unleashing the Power of VLMs in Autonomous Driving via Reinforcement Learning and Reasoning** [![arXiv](https://img.shields.io/badge/arXiv-2025.03-red)](https://arxiv.org/abs/2503.07608) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/hustvl/AlphaDrive)
+
+#### 2.1.3 Everyday Scenarios
+##### 2.1.3.1 Travel Planning
+* **TravelPlanner: A Benchmark for Real-World Planning with Language Agents** [![ICML](https://img.shields.io/badge/ICML-2024-red)](https://arxiv.org/abs/2402.01622) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/OSU-NLP-Group/TravelPlanner)
+* **ChinaTravel: A Real-World Benchmark for Language Agents in Chinese Travel Planning** [![arXiv](https://img.shields.io/badge/arXiv-2024.12-red)](https://arxiv.org/abs/2412.13682) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/LAMDASZ-ML/ChinaTravel)
+* **NATURAL PLAN: Benchmarking LLMs on Natural Language Planning** [![arXiv](https://img.shields.io/badge/arXiv-2024.06-red)](https://arxiv.org/abs/2406.04520) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/google-deepmind/natural-plan)
+
+##### 2.1.3.2 Workflow
+* **FlowBench: Revisiting and Benchmarking Workflow-Guided Planning for LLM-based Agents** [![EMNLP](https://img.shields.io/badge/EMNLP-2024-red)](https://arxiv.org/abs/2406.14884) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/Justherozen/FlowBench)
+* **Open Grounded Planning: Challenges and Benchmark Construction** [![ACL](https://img.shields.io/badge/ACL-2024-red)](https://arxiv.org/abs/2406.02903) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/Shiguang-Guo/Open-Grounded-Planning)
+* **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face** [![NIPS](https://img.shields.io/badge/NIPS-2023-red)](https://arxiv.org/abs/2303.17580) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/microsoft/JARVIS/tree/main/hugginggpt)
+* **TaskBench: Benchmarking Large Language Models for Task Automation** [![NIPS](https://img.shields.io/badge/NIPS-2024-red)](https://arxiv.org/abs/2311.18760) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/microsoft/JARVIS/tree/main/taskbench)
+* **TaskLAMA: Probing the Complex Task Understanding of Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2023.08-red)](https://arxiv.org/abs/2308.15299) [![Code](https://img.shields.io/badge/Code-Dataset-blue)](https://storage.googleapis.com/gresearch/tasklama/tasklama.zip)
+* **Benchmarking Agentic Workflow Generation** [![ICLR](https://img.shields.io/badge/ICLR-2025-red)](https://arxiv.org/abs/2410.07869) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/zjunlp/WorfBench)
+* **Multimodal Procedural Planning via Dual Text-Image Prompting** [![arXiv](https://img.shields.io/badge/arXiv-2023.05-red)](https://arxiv.org/abs/2305.01795) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/YujieLu10/TIP)
+* **Interleaved Scene Graphs for Interleaved Text-and-Image Generation Assessment** [![ICLR](https://img.shields.io/badge/ICLR-2025-red)](https://arxiv.org/abs/2411.17188) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/Dongping-Chen/ISG)
+
+##### 2.1.3.3 Tool Calling
+* **ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs** [![ICLR](https://img.shields.io/badge/ICLR-2024-red)](https://arxiv.org/abs/2307.16789) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/OpenBMB/ToolBench)
+* **AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents** [![ACL](https://img.shields.io/badge/ACL-2024-red)](https://arxiv.org/abs/2407.18901) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/stonybrooknlp/appworld)
+* **API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs** [![EMNLP](https://img.shields.io/badge/EMNLP-2023-red)](https://arxiv.org/abs/2304.08244) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/api-bank)
+* **ToolComp: A Multi-Tool Reasoning & Process Supervision Benchmark** [![arXiv](https://img.shields.io/badge/arXiv-2025.01-red)](https://arxiv.org/abs/2501.01290)
+* **ToolSandbox: A Stateful, Conversational, Interactive Evaluation Benchmark for LLM Tool Use Capabilities** [![arXiv](https://img.shields.io/badge/arXiv-2024.08-red)](https://arxiv.org/abs/2408.04682) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/apple/ToolSandbox)
+* **ToolTalk: Evaluating Tool-Usage in a Conversational Setting** [![arXiv](https://img.shields.io/badge/arXiv-2023.11-red)](https://arxiv.org/abs/2311.10775) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/microsoft/ToolTalk)
+
+##### 2.1.3.4 Code Generation
+* **SWE-bench: Can Language Models Resolve Real-World GitHub Issues?** [![ICLR](https://img.shields.io/badge/ICLR-2024-red)](https://arxiv.org/abs/2310.06770) [![Code](https://img.shields.io/badge/Code-Dataset-blue)](https://www.swebench.com/)
+* **Training Software Engineering Agents and Verifiers with SWE-Gym** [![ICML](https://img.shields.io/badge/ICML-2025-red)](https://arxiv.org/abs/2412.21139) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/SWE-Gym/SWE-Gym)
+* **Evaluating Large Language Models Trained on Code** [![arXiv](https://img.shields.io/badge/arXiv-2021.07-red)](https://arxiv.org/abs/2107.03374) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/openai/human-eval)
+
+##### 2.1.3.5 Game Playing
+* **VSP: Assessing the dual challenges of perception and reasoning in spatial planning tasks for VLMs** [![arXiv](https://img.shields.io/badge/arXiv-2024.07-red)](https://arxiv.org/abs/2407.01863) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/UCSB-NLP-Chang/Visual-Spatial-Planning)
+* **TextWorld: A Learning Environment for Text-based Games** [![IJCAI](https://img.shields.io/badge/IJCAI-2018-red)](https://arxiv.org/abs/1806.11532) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/microsoft/TextWorld)
+* **BabyAI: A Platform to Study the Sample Efficiency of Grounded Language Learning** [![ICLR](https://img.shields.io/badge/ICLR-2019-red)](https://arxiv.org/abs/1810.08272) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/mila-iqia/babyai/tree/iclr19)
+* **PlanBench: An Extensible Benchmark for Evaluating Large Language Models on Planning and Reasoning about Change** [![NIPS](https://img.shields.io/badge/NIPS-2023-red)](https://arxiv.org/abs/2206.10498) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/karthikv792/LLMs-Planning/tree/main/plan-bench)
+
+#### 2.1.4 Vertical Scenarios
+##### 2.1.4.1 Machine Learning
+* **MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering** [![ICLR](https://img.shields.io/badge/ICLR-2025-red)](https://arxiv.org/abs/2410.07095) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/openai/mle-bench/)
+
+##### 2.1.4.2 AI Research
+* **ResearchArena: Benchmarking Large Language Models' Ability to Collect and Organize Information as Research Agents** [![arXiv](https://img.shields.io/badge/arXiv-2024.06-red)](https://arxiv.org/abs/2406.10291)
+* **CycleResearcher: Improving Automated Research via Automated Review** [![ICLR](https://img.shields.io/badge/ICLR-2025-red)](https://arxiv.org/abs/2411.00816) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://wengsyx.github.io/Researcher/)
+
+##### 2.1.4.3 Biological Research
+* **BioPlanner: Automatic Evaluation of LLMs on Protocol Planning in Biology** [![EMNLP](https://img.shields.io/badge/EMNLP-2023-red)](https://arxiv.org/abs/2310.10632) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/bioplanner/bioplanner)
+
+##### 2.1.4.4 Financial Simulation
+* **Put Your Money Where Your Mouth Is: Evaluating Strategic Planning and Execution of LLM Agents in an Auction Arena** [![arXiv](https://img.shields.io/badge/arXiv-2023.10-red)](https://arxiv.org/abs/2310.05746) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/jiangjiechen/auction-arena)
+
+##### 2.1.4.5 Interior Design
+* **DStruct2Design: Data and Benchmarks for Data Structure Driven Generative Floor Plan Design** [![arXiv](https://img.shields.io/badge/arXiv-2024.07-red)](https://arxiv.org/abs/2407.15723) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/plstory/DS2D)
+* **Tell2Design: A Dataset for Language-Guided Floor Plan Generation** [![ACL](https://img.shields.io/badge/ACL-2023-red)](https://arxiv.org/abs/2311.15941) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/LengSicong/Tell2Design)
+
+##### 2.1.4.6 Comprehensive
+* **AgentBench: Evaluating LLMs as Agents** [![ICLR](https://img.shields.io/badge/ICLR-2024-red)](https://arxiv.org/abs/2308.03688) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/THUDM/AgentBench)
+
+* **VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents** [![arXiv](https://img.shields.io/badge/arXiv-2024.08-red)](https://arxiv.org/abs/2408.06327) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/THUDM/VisualAgentBench)
+
+### 2.2 Evaluation Metrics
+
+<p>
+  <img src="docs/sankeydiagram.png" width="95%" height="95%" />
+</p>
+The corresponding relationship between planning evaluation metrics and some typical planning datasets. The left three columns represent evaluation metrics of different granularities, while the rightmost column denotes the dataset.
+
+### 2.3 Performance Comparisons
+#### 2.3.1 Web Navigation Performance
+* **TongUI: Building Generalized GUI Agents by Learning from Multimodal Web Tutorials** [![arXiv](https://img.shields.io/badge/arXiv-2025.04-red)](https://arxiv.org/abs/2504.12679) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/TongUI-agent/TongUI-agent?tab=readme-ov-file)
+* **SpiritSight Agent: Advanced GUI Agent with One Look** [![CVPR](https://img.shields.io/badge/CVPR-2025-red)](https://arxiv.org/abs/2503.03196) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://hzhiyuan.github.io/SpiritSight-Agent/)
+* **UI-E2I-Synth: Advancing GUI Grounding with Large-Scale Instruction Synthesis** [![arXiv](https://img.shields.io/badge/arXiv-2025.04-red)](https://arxiv.org/abs/2504.11257)
+* **MP-GUI: Modality Perception with MLLMs for GUI Understanding** [![CVPR](https://img.shields.io/badge/CVPR-2025-red)](https://arxiv.org/abs/2503.14021) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/BigTaige/MP-GUI)
+* **Magma: A Foundation Model for Multimodal AI Agents** [![CVPR](https://img.shields.io/badge/CVPR-2025-red)](https://arxiv.org/abs/2502.13130) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/microsoft/Magma)
+* **Digi-Q: Learning Q-Value Functions for Training Device-Control Agents** [![ICLR](https://img.shields.io/badge/ICLR-2025-red)](https://arxiv.org/abs/2502.15760) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/DigiRL-agent/digiq)
+* **UI-TARS: Pioneering Automated GUI Interaction with Native Agents** [![arXiv](https://img.shields.io/badge/arXiv-2025.01-red)](https://arxiv.org/abs/2501.12326) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/bytedance/UI-TARS)
+* **Tree Search for Language Model Agents** [![arXiv](https://img.shields.io/badge/arXiv-2024.07-red)](https://arxiv.org/abs/2407.01476) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/kohjingyu/search-agents)
+* **GUICourse: From General Vision Language Models to Versatile GUI Agents** [![arXiv](https://img.shields.io/badge/arXiv-2024.06-red)](https://arxiv.org/abs/2406.11317) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/RUCBM/GUICourse)
+* **MiniCPM-V: A GPT-4V Level MLLM on Your Phone** [![CVPR](https://img.shields.io/badge/CVPR-2025-red)](https://arxiv.org/abs/2408.01800) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/OpenBMB/MiniCPM-o)
+* **Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents** [![ICLR](https://img.shields.io/badge/ICLR-2025-red)](https://arxiv.org/abs/2410.05243) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/OSU-NLP-Group/UGround)
+* **GPT-4V(ision) is a Generalist Web Agent, if Grounded** [![ICML](https://img.shields.io/badge/ICML-2024-red)](https://arxiv.org/abs/2401.01614) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/OSU-NLP-Group/SeeAct)
+* **SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents** [![ACL](https://img.shields.io/badge/ACL-2024-red)](https://arxiv.org/abs/2401.10935) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/njucckevin/SeeClick)
+* **CogAgent: A Visual Language Model for GUI Agents** [![CVPR](https://img.shields.io/badge/CVPR-2024-red)](https://arxiv.org/abs/2312.08914) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/THUDM/CogAgent)
+* **Agent Lumos: Unified and Modular Training for Open-Source Language Agents** [![ACL](https://img.shields.io/badge/ACL-2024-red)](https://arxiv.org/abs/2311.05657) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/allenai/lumos)
+* **AgentTuning: Enabling Generalized Agent Abilities for LLMs** [![arXiv](https://img.shields.io/badge/arXiv-2023.10-red)](https://arxiv.org/abs/2310.12823) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/THUDM/AgentTuning)
+* **Mind2Web: Towards a Generalist Agent for the Web** [![NIPS](https://img.shields.io/badge/NIPS-2023-red)](https://arxiv.org/abs/2306.06070) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/OSU-NLP-Group/Mind2Web)
+* **Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control** [![ICLR](https://img.shields.io/badge/ICLR-2024-red)](https://arxiv.org/abs/2306.07863) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/ltzheng/Synapse)
+
+<p>
+  <img src="docs/WebNavigationPerformance.png" width="95%" height="95%" />
+</p>
+The performance comparison of different models and methods in web navigation.The value of Mind2Web is the average step success rate of the three subsets.The value of Webarena is task successrate.The value of AITW is step success rate of the subsets.The value of ScreenSpot is step success rate.
+
+#### 2.3.2 Embodied Scenarios Performance
+* **ATLaS: Agent Tuning via Learning Critical Steps** [![arXiv](https://img.shields.io/badge/arXiv-2025.03-red)](https://arxiv.org/abs/2503.02197)
+* **DebFlow: Automating Agent Creation via Agent Debate** [![CoLM](https://img.shields.io/badge/CoLM-2025-red)](https://arxiv.org/abs/2503.23781)
+* **Agent-R: Training Language Model Agents to Reflect via Iterative Self-Training** [![arXiv](https://img.shields.io/badge/arXiv-2025.01-red)](https://arxiv.org/abs/2501.11425) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/ByteDance-Seed/Agent-R)
+* **AgentRefine: Enhancing Agent Generalization through Refinement Tuning** [![ICLR](https://img.shields.io/badge/ICLR-2025-red)](https://arxiv.org/abs/2501.01702) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/Fu-Dayuan/AgentRefine)
+* **AgentGym: Evolving Large Language Model-based Agents across Diverse Environments** [![arXiv](https://img.shields.io/badge/arXiv-2024.06-red)](https://arxiv.org/abs/2406.04151) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/WooooDyy/AgentGym)
+* **Agent Planning with World Knowledge Model** [![NIPS](https://img.shields.io/badge/NIPS-2024-red)](https://arxiv.org/abs/2405.14205) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/zjunlp/WKM)
+* **Trial and Error: Exploration-Based Trajectory Optimization for LLM Agents** [![ACL](https://img.shields.io/badge/ACL-2024-red)](https://arxiv.org/abs/2403.02502) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/Yifan-Song793/ETO)
+* **KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents** [![NAACL](https://img.shields.io/badge/NAACL-2025-red)](https://arxiv.org/abs/2403.03101) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/zjunlp/KnowAgent)
+* **AgentTuning: Enabling Generalized Agent Abilities for LLMs** [![arXiv](https://img.shields.io/badge/arXiv-2023.10-red)](https://arxiv.org/abs/2310.12823) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/THUDM/AgentTuning)
+
+<p>
+  <img src="docs/EmbodiedScenariosPerformance.png" width="75%" height="75%" />
+</p>
+The performance comparison of different models and methods in embodied.This refers to the average of seen and unseen in the original paper, or the value reported in the original paper.
