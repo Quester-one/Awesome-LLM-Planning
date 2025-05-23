@@ -97,9 +97,8 @@ An overview of LLM-based agent planning, covering its definition, methods, evalu
 * **Closed-Loop Long-Horizon Robotic Planning Via Equilibrium Sequence Modeling** [![arXiv](https://img.shields.io/badge/arXiv-2024.10-red)](https://arxiv.org/abs/2410.01440) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/Singularity0104/equilibrium-planner)
 * **Autowebglm: A Large Language Model-Based Web Navigating Agent** [![SIGKDD](https://img.shields.io/badge/SIGKDD-2024-red)](https://arxiv.org/abs/2404.03648) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/THUDM/AutoWebGLM)
 * **Self-Playing Adversarial Language Game Enhances LLM Reasoning** [![arXiv](https://img.shields.io/badge/arXiv-2024.04-red)](https://arxiv.org/abs/2404.10642) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/Linear95/SPAG)
-* ------------------------------------------------------
-* **Mastering Chess And Shogi By Self-Play With A General Reinforcement Learning Algorithm** [![arXiv](https://img.shields.io/badge/arXiv-2017.12-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
-* **Advancing LLM Reasoning Generalists With Preference Trees** [![arXiv](https://img.shields.io/badge/arXiv-2024.04-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
+* **Advancing LLM Reasoning Generalists With Preference Trees** [![arXiv](https://img.shields.io/badge/arXiv-2024.04-red)](https://arxiv.org/abs/2404.02078)
+* -----------------------------
 * **Language Models Can Teach Themselves To Program Better** [![arXiv](https://img.shields.io/badge/arXiv-2022.07-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
 * **React Meets Actre: When Language Agents Enjoy Training Data Autonomy.** [![CoRR](https://img.shields.io/badge/CoRR-2024-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
 * **Trial And Error: Exploration-Based Trajectory Optimization For LLM Agents** [![arXiv](https://img.shields.io/badge/arXiv-2024.03-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
