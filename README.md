@@ -173,7 +173,7 @@ An overview of LLM-based agent planning, covering its definition, methods, evalu
 * **Interpretable Math Word Problem Solution Generation Via Step-By-Step Planning** [![ACL](https://img.shields.io/badge/ACL-2023-red)](https://aclanthology.org/2023.acl-long.379/)
 * **Deductive Additivity For Planning Of Natural Language Proofs** [![ACL](https://img.shields.io/badge/ACL-2023-red)](https://aclanthology.org/2023.nlrse-1.11/)
 * **Least-To-Most Prompting Enables Complex Reasoning In Large Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2022.05-red)](https://arxiv.org/abs/2205.10625) 
-* **Msi-Agent: Incorporating Multi-Scale Insight Into Embodied Agents For Superior Planning And Decision-Making** [![ACL](https://img.shields.io/badge/ACK-2024-red)](https://aclanthology.org/2024.emnlp-main.38/)
+* **Msi-Agent: Incorporating Multi-Scale Insight Into Embodied Agents For Superior Planning And Decision-Making** [![ACL](https://img.shields.io/badge/ACL-2024-red)](https://aclanthology.org/2024.emnlp-main.38/)
 #### 1.3.2 Exploration-based Methods
 
 <p>
