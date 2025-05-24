@@ -69,6 +69,11 @@ An overview of LLM-based agent planning, covering its definition, methods, evalu
 
 ### 1.2 Finetuning-based Methods
 #### 1.2.1 Imitation Learning-based Methods 
+
+<p>
+  <img src="docs/imitation.png" width="95%" height="95%" />
+</p>
+
 * **Opencodereasoning: Advancing Data Distillation For Competitive Coding** [![arXiv](https://img.shields.io/badge/arXiv-2025.04-red)](https://arxiv.org/abs/2504.01943) 
 * **Self-Improvement Towards Pareto Optimality: Mitigating Preference Conflicts In Multi-Objective Alignment** [![arXiv](https://img.shields.io/badge/arXiv-2025.02-red)](https://arxiv.org/abs/2502.14354) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/zyttt-coder/SIPO)
 * **Enhancing Reasoning Capabilities Of Llms Via Principled Synthetic Logic Corpus** [![NIPS](https://img.shields.io/badge/NIPS-2024-red)](https://arxiv.org/abs/2411.12498#:~:text=To%20address%20this%2C%20we%20propose%20Additional%20Logic%20Training,integrating%20symbolic%20logic%20theory%20and%20previous%20empirical%20insights.) 
@@ -98,6 +103,11 @@ An overview of LLM-based agent planning, covering its definition, methods, evalu
 * **Multimodal Web Navigation With Instruction-Finetuned Foundation Models** [![arXiv](https://img.shields.io/badge/arXiv-2023.05-red)](https://arxiv.org/abs/2305.11854) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://sites.google.com/view/mm-webnav/)
 * **Training Verifiers To Solve Math Word Problems** [![arXiv](https://img.shields.io/badge/arXiv-2021.10-red)](https://arxiv.org/abs/2110.14168)
 #### 1.2.2 Feedback-based Methods
+
+<p>
+  <img src="docs/feedback.png" width="95%" height="95%" />
+</p>
+
 * **Gui-R1: A Generalist R1-Style Vision-Language Action Model For Gui Agents** [![arXiv](https://img.shields.io/badge/arXiv-2025.04-red)](https://arxiv.org/abs/2504.10458) 
 * **Infigui-R1: Advancing Multimodal Gui Agents From Reactive Actors To Deliberative Reasoners** [![arXiv](https://img.shields.io/badge/arXiv-2025.04-red)](https://arxiv.org/abs/2504.14239) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/Reallm-Labs/InfiGUI-R1)
 * **Embodied-R: Collaborative Framework For Activating Embodied Spatial Reasoning In Foundation Models Via Reinforcement Learning** [![arXiv](https://img.shields.io/badge/arXiv-2025.04-red)](https://arxiv.org/abs/2504.12680) 
@@ -136,6 +146,11 @@ An overview of LLM-based agent planning, covering its definition, methods, evalu
 * **Ui-R1: Enhancing Action Prediction Of Gui Agents By Reinforcement Learning** [![arXiv](https://img.shields.io/badge/arXiv-2025.03-red)](https://arxiv.org/abs/2503.21620v1)
 ### 1.3 Searching-based Methods
 #### 1.3.1 Decomposition-based Methods
+
+<p>
+  <img src="docs/decomposition.png" width="95%" height="95%" />
+</p>
+
 * **Verilogcoder: Autonomous Verilog Coding Agents With Graph-Based Planning And Abstract Syntax Tree (Ast)-Based Waveform Tracing Tool** [![AAAI](https://img.shields.io/badge/AAAI-2025-red)](https://arxiv.org/abs/2408.08927) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/NVlabs/VerilogCoder)
 * **Agent-Oriented Planning In Multi-Agent Systems** [![arXiv](https://img.shields.io/badge/arXiv-2024.10-red)](https://arxiv.org/abs/2410.02189) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/lalaliat/Agent-Oriented-Planning)
 * **Optimizing Chain-Of-Thought Reasoning: Tackling Arranging Bottleneck Via Plan Augmentation** [![arXiv](https://img.shields.io/badge/arXiv-2024.10-red)](https://arxiv.org/abs/2410.16812) 
@@ -160,6 +175,11 @@ An overview of LLM-based agent planning, covering its definition, methods, evalu
 * **Least-To-Most Prompting Enables Complex Reasoning In Large Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2022.05-red)](https://arxiv.org/abs/2205.10625) 
 * **Msi-Agent: Incorporating Multi-Scale Insight Into Embodied Agents For Superior Planning And Decision-Making** [![ACL](https://img.shields.io/badge/ACK-2024-red)](https://aclanthology.org/2024.emnlp-main.38/)
 #### 1.3.2 Exploration-based Methods
+
+<p>
+  <img src="docs/exploration.png" width="95%" height="95%" />
+</p>
+
 * **Worldcoder, A Model-Based LLM Agent: Building World Models By Writing Code And Interacting With The Environment** [![NIPS](https://img.shields.io/badge/NIPS-2025-red)](https://arxiv.org/abs/2402.12275) 
 * **Scaling Autonomous Agents Via Automatic Reward Modeling And Planning** [![ICLR](https://img.shields.io/badge/ICLR-2025-red)](https://arxiv.org/abs/2502.12130) [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
 * **Flow-Of-Options: Diversified And Improved LLM Reasoning By Thinking Through Options** [![arXiv](https://img.shields.io/badge/arXiv-2025.02-red)](https://arxiv.org/abs/2502.12929) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/flagshippioneering/Flow-of-Options)
