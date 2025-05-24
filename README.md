@@ -60,12 +60,12 @@ An overview of LLM-based agent planning, covering its definition, methods, evalu
 * **Jarvis-1: Open-World Multi-Task Agents With Memory-Augmented Multimodal Language Models** [![TPAMI](https://img.shields.io/badge/TPAMI-2024-red)](https://arxiv.org/abs/2311.05997) 
 * **Learning Memory Mechanisms For Decision Making Through Demonstrations** [![arXiv](https://img.shields.io/badge/arXiv-2024.11-red)](https://arxiv.org/abs/2411.07954) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/WilliamYue37/AttentionTuner)
 * **The Rise And Potential Of Large Language Model Based Agents: A Survey** [![arXiv](https://img.shields.io/badge/arXiv-2023.09-red)](https://arxiv.org/abs/2309.07864) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/WooooDyy/LLM-Agent-Paper-List)
-* **Ghost In The Minecraft: Generally Capable Agents For Open-World Environments Via Large Language Models With Text-Based Knowledge And Memory** [![arXiv](https://img.shields.io/badge/arXiv-2023.05-red)](https://arxiv.org/abs/2305.17144) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/OpenGVLab/GITM)
 * **Mot: Memory-Of-Thought Enables Chatgpt To Self-Improve** [![EMNLP](https://img.shields.io/badge/EMNLP-2023-red)](https://aclanthology.org/2023.emnlp-main.392.pdf) 
 * **Memgpt: Towards Llms As Operating Systems** [![arXiv](https://img.shields.io/badge/arXiv-2023.10-red)](https://arxiv.org/abs/2310.08560) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://www.letta.com/)
 * **Clin: A Continually Learning Language Agent For Rapid Task Adaptation And Generalization** [![arXiv](https://img.shields.io/badge/arXiv-2023.10-red)](https://arxiv.org/abs/2310.10134) 
 * **Open-Ended Instructable Embodied Agents With Memory-Augmented Large Language Models** [![EMNLP](https://img.shields.io/badge/EMNLP-2023-red)](https://arxiv.org/abs/2310.15127) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://helper-agent-llm.github.io/)
-* **Think-In-Memory: Recalling And Post-Thinking Enable Llms With Long-Term Memory** [![arXiv](https://img.shields.io/badge/arXiv-2023.11-red)](https://arxiv.org/abs/2311.08719) 
+* **Think-In-Memory: Recalling And Post-Thinking Enable Llms With Long-Term Memory** [![arXiv](https://img.shields.io/badge/arXiv-2023.11-red)](https://arxiv.org/abs/2311.08719)
+* * **Ghost In The Minecraft: Generally Capable Agents For Open-World Environments Via Large Language Models With Text-Based Knowledge And Memory** [![arXiv](https://img.shields.io/badge/arXiv-2023.05-red)](https://arxiv.org/abs/2305.17144) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/OpenGVLab/GITM)
 
 ### 1.2 Finetuning-based Methods
 #### 1.2.1 Imitation Learning-based Methods 
