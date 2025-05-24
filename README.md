@@ -196,7 +196,7 @@ An overview of LLM-based agent planning, covering its definition, methods, evalu
 * **Tree Search For Language Model Agents** [![arXiv](https://img.shields.io/badge/arXiv-2024.07-red)](https://arxiv.org/abs/2407.01476) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://jykoh.com/search-agents)
 * **LLM-A\*: Large Language Model Enhanced Incremental Heuristic Search On Path Planning** [![EMNLP](https://img.shields.io/badge/EMNLP-2024-red)](https://arxiv.org/abs/2407.02511) 
 * **Webpilot: A Versatile And Autonomous Multi-Agent System For Web Task Execution With Strategic Exploration** [![arXiv](https://img.shields.io/badge/arXiv-2024.08-red)](https://arxiv.org/abs/2408.15978) 
-* **Graph Of Thoughts: Solving Elaborate Problems With Large Language Models** [![AAAI](https://img.shields.io/badge/AAAI-2024-red)]() [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
+* **Graph Of Thoughts: Solving Elaborate Problems With Large Language Models** [![AAAI](https://img.shields.io/badge/AAAI-2024-red)](https://arxiv.org/abs/2308.09687)
 * **Tree-Planner: Efficient Close-Loop Task Planning With Large Language Models** [![ICLR](https://img.shields.io/badge/ICLR-2024-red)](https://arxiv.org/abs/2310.08582)
 * **Thoughtsculpt: Reasoning With Intermediate Revision And Search** [![NAACL](https://img.shields.io/badge/NAACL-2024-red)](https://aclanthology.org/2025.findings-naacl.428/)
 * **Alphamath Almost Zero: Process Supervision Without Process** [![arXiv](https://img.shields.io/badge/arXiv-2024.05-red)](https://arxiv.org/abs/2405.03553) 
