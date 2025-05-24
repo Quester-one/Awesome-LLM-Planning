@@ -19,8 +19,10 @@ An overview of LLM-based agent planning, covering its definition, methods, evalu
 
 ### 1.1 External Module Augmented Methods
 
+
 <p>
-  <img src="docs/exexternal_module.pdf" width="95%" height="95%" />
+<iframe src="docs/exexternal_module.pdf"
+ width="800px" height="2400px"></iframe>
 </p>
 
 #### 1.1.1 Planner Enhanced Methods 
