@@ -71,7 +71,7 @@ An overview of LLM-based agent planning, covering its definition, methods, evalu
 #### 1.2.1 Imitation Learning-based Methods 
 
 <p>
-  <img src="docs/imitation.png" width="90%" height="90%" />
+  <img src="docs/imitation.png" width="60%" height="60%" />
 </p>
 
 * **Opencodereasoning: Advancing Data Distillation For Competitive Coding** [![arXiv](https://img.shields.io/badge/arXiv-2025.04-red)](https://arxiv.org/abs/2504.01943) 
@@ -105,7 +105,7 @@ An overview of LLM-based agent planning, covering its definition, methods, evalu
 #### 1.2.2 Feedback-based Methods
 
 <p>
-  <img src="docs/feedback.png" width="90%" height="90%" />
+  <img src="docs/feedback.png" width="60%" height="60%" />
 </p>
 
 * **Gui-R1: A Generalist R1-Style Vision-Language Action Model For Gui Agents** [![arXiv](https://img.shields.io/badge/arXiv-2025.04-red)](https://arxiv.org/abs/2504.10458) 
@@ -148,7 +148,7 @@ An overview of LLM-based agent planning, covering its definition, methods, evalu
 #### 1.3.1 Decomposition-based Methods
 
 <p>
-  <img src="docs/decomposition.png" width="90%" height="90%" />
+  <img src="docs/decomposition.png" width="60%" height="60%" />
 </p>
 
 * **Verilogcoder: Autonomous Verilog Coding Agents With Graph-Based Planning And Abstract Syntax Tree (Ast)-Based Waveform Tracing Tool** [![AAAI](https://img.shields.io/badge/AAAI-2025-red)](https://arxiv.org/abs/2408.08927) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/NVlabs/VerilogCoder)
