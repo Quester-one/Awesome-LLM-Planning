@@ -181,7 +181,7 @@ An overview of LLM-based agent planning, covering its definition, methods, evalu
 </p>
 
 * **Worldcoder, A Model-Based LLM Agent: Building World Models By Writing Code And Interacting With The Environment** [![NIPS](https://img.shields.io/badge/NIPS-2025-red)](https://arxiv.org/abs/2402.12275) 
-* **Scaling Autonomous Agents Via Automatic Reward Modeling And Planning** [![ICLR](https://img.shields.io/badge/ICLR-2025-red)](https://arxiv.org/abs/2502.12130) [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
+* **Scaling Autonomous Agents Via Automatic Reward Modeling And Planning** [![ICLR](https://img.shields.io/badge/ICLR-2025-red)](https://arxiv.org/abs/2502.12130) 
 * **Flow-Of-Options: Diversified And Improved LLM Reasoning By Thinking Through Options** [![arXiv](https://img.shields.io/badge/arXiv-2025.02-red)](https://arxiv.org/abs/2502.12929) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/flagshippioneering/Flow-of-Options)
 * **Adaptive Graph Of Thoughts: Test-Time Adaptive Reasoning Unifying Chain, Tree, And Graph Structures** [![arXiv](https://img.shields.io/badge/arXiv-2025.02-red)](https://arxiv.org/abs/2502.05078) 
 * **Step Back To Leap Forward: Self-Backtracking For Boosting Reasoning Of Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2025.02-red)](https://arxiv.org/abs/2502.04404)
