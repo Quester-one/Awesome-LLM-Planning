@@ -148,7 +148,7 @@ An overview of LLM-based agent planning, covering its definition, methods, evalu
 #### 1.3.1 Decomposition-based Methods
 
 <p>
-  <img src="docs/decomposition.png" width="60%" height="60%" />
+  <img src="docs/decomposition.png" width="50%" height="50%" />
 </p>
 
 * **Verilogcoder: Autonomous Verilog Coding Agents With Graph-Based Planning And Abstract Syntax Tree (Ast)-Based Waveform Tracing Tool** [![AAAI](https://img.shields.io/badge/AAAI-2025-red)](https://arxiv.org/abs/2408.08927) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/NVlabs/VerilogCoder)
