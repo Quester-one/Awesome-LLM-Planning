@@ -19,6 +19,10 @@ An overview of LLM-based agent planning, covering its definition, methods, evalu
 
 ### 1.1 External Module Augmented Methods
 
+<p>
+  <img src="docs/exexternal_module.pdf" width="95%" height="95%" />
+</p>
+
 #### 1.1.1 Planner Enhanced Methods 
 
 * **Hierarchical Planning For Complex Tasks With Knowledge Graph-Rag And Symbolic Verification** [![arXiv](https://img.shields.io/badge/arXiv-2025.04-red)](https://arxiv.org/abs/2504.04578) 
