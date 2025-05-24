@@ -65,7 +65,7 @@ An overview of LLM-based agent planning, covering its definition, methods, evalu
 * **Clin: A Continually Learning Language Agent For Rapid Task Adaptation And Generalization** [![arXiv](https://img.shields.io/badge/arXiv-2023.10-red)](https://arxiv.org/abs/2310.10134) 
 * **Open-Ended Instructable Embodied Agents With Memory-Augmented Large Language Models** [![EMNLP](https://img.shields.io/badge/EMNLP-2023-red)](https://arxiv.org/abs/2310.15127) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://helper-agent-llm.github.io/)
 * **Think-In-Memory: Recalling And Post-Thinking Enable Llms With Long-Term Memory** [![arXiv](https://img.shields.io/badge/arXiv-2023.11-red)](https://arxiv.org/abs/2311.08719)
-* * **Ghost In The Minecraft: Generally Capable Agents For Open-World Environments Via Large Language Models With Text-Based Knowledge And Memory** [![arXiv](https://img.shields.io/badge/arXiv-2023.05-red)](https://arxiv.org/abs/2305.17144) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/OpenGVLab/GITM)
+* **Ghost In The Minecraft: Generally Capable Agents For Open-World Environments Via Large Language Models With Text-Based Knowledge And Memory** [![arXiv](https://img.shields.io/badge/arXiv-2023.05-red)](https://arxiv.org/abs/2305.17144) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/OpenGVLab/GITM)
 
 ### 1.2 Finetuning-based Methods
 #### 1.2.1 Imitation Learning-based Methods 
