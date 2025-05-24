@@ -177,7 +177,7 @@ An overview of LLM-based agent planning, covering its definition, methods, evalu
 #### 1.3.2 Exploration-based Methods
 
 <p>
-  <img src="docs/exploration.png" width="95%" height="95%" />
+  <img src="docs/exploration.png" width="80%" height="80%" />
 </p>
 
 * **Worldcoder, A Model-Based LLM Agent: Building World Models By Writing Code And Interacting With The Environment** [![NIPS](https://img.shields.io/badge/NIPS-2025-red)](https://arxiv.org/abs/2402.12275) 
