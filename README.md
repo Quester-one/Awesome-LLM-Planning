@@ -21,8 +21,7 @@ An overview of LLM-based agent planning, covering its definition, methods, evalu
 
 
 <p>
-<iframe src="docs/exexternal_module.pdf"
- width="800px" height="2400px"></iframe>
+  <img src="docs/external_module.png" width="95%" height="95%" />
 </p>
 
 #### 1.1.1 Planner Enhanced Methods 
