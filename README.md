@@ -21,31 +21,30 @@ An overview of LLM-based agent planning, covering its definition, methods, evalu
 
 #### 1.1.1 Planner Enhanced Methods 
 
-
-* **LLM+ Map: Bimanual Robot Task Planning Using Large Language Models And Planning Domain Definition Language** [![arXiv](https://img.shields.io/badge/arXiv-2025.03-red)](https://arxiv.org/abs/2503.17309) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/Kchu/LLM-MAP)
 * **Hierarchical Planning For Complex Tasks With Knowledge Graph-Rag And Symbolic Verification** [![arXiv](https://img.shields.io/badge/arXiv-2025.04-red)](https://arxiv.org/abs/2504.04578) 
-* **PROC2PDDL: Open-Domain Planning Representations From Texts** [![arXiv](https://img.shields.io/badge/arXiv-2024.03-red)](https://arxiv.org/abs/2403.00092) 
-* **PDDLEGO: Iterative Planning In Textual Environments** [![arXiv](https://img.shields.io/badge/arXiv-2024.05-red)](https://arxiv.org/abs/2405.19793) 
-* **Trip-Pal: Travel Planning With Guarantees By Combining Large Language Models And Automated Planners** [![arXiv](https://img.shields.io/badge/arXiv-2024.06-red)](https://arxiv.org/abs/2406.10196) 
-* **Leveraging Environment Interaction For Automated PDDL Translation And Planning With Large Language Models** [![NIPS](https://img.shields.io/badge/NIPS-2024-red)](https://arxiv.org/abs/2407.12979) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/BorealisAI/llm-pddl-planning) 
-* **Planetarium: A Rigorous Benchmark For Translating Text To Structured Planning Languages** [![arXiv](https://img.shields.io/badge/arXiv-2024.07-red)](https://arxiv.org/abs/2407.03321) 
-* **Position: Llms Can’t Plan, But Can Help Planning In LLM-Modulo Frameworks** [![ICML](https://img.shields.io/badge/ICML-2024-red)](https://arxiv.org/abs/2402.01817) 
-* **Explicit Memory Learning With Expectation Maximization** [![EMNLP](https://img.shields.io/badge/EMNLP-2024-red)](https://aclanthology.org/2024.emnlp-main.927.pdf) 
-* **Can Llms Plan Paths With Extra Hints From Solvers?** [![arXiv](https://img.shields.io/badge/arXiv-2024.10-red)](https://arxiv.org/abs/2410.05045) 
-* **To The Globe (Ttg): Towards Language-Driven Guaranteed Travel Planning** [![EMNLP](https://img.shields.io/badge/EMNLP-2024-red)](https://arxiv.org/abs/2410.16456) 
+* **LLM+ Map: Bimanual Robot Task Planning Using Large Language Models And Planning Domain Definition Language** [![arXiv](https://img.shields.io/badge/arXiv-2025.03-red)](https://arxiv.org/abs/2503.17309) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/Kchu/LLM-MAP)
 * **Robust Planning With Compound LLM Architectures: An LLM-Modulo Approach** [![arXiv](https://img.shields.io/badge/arXiv-2024.11-red)](https://arxiv.org/abs/2411.14484) 
-* **Translating Natural Language To Planning Goals With Large-Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2023.02-red)](https://arxiv.org/abs/2302.05128)
+* **Can Llms Plan Paths With Extra Hints From Solvers?** [![arXiv](https://img.shields.io/badge/arXiv-2024.10-red)](https://arxiv.org/abs/2410.05045) 
+* **Planetarium: A Rigorous Benchmark For Translating Text To Structured Planning Languages** [![arXiv](https://img.shields.io/badge/arXiv-2024.07-red)](https://arxiv.org/abs/2407.03321)
+* **Trip-Pal: Travel Planning With Guarantees By Combining Large Language Models And Automated Planners** [![arXiv](https://img.shields.io/badge/arXiv-2024.06-red)](https://arxiv.org/abs/2406.10196) 
+* **PDDLEGO: Iterative Planning In Textual Environments** [![arXiv](https://img.shields.io/badge/arXiv-2024.05-red)](https://arxiv.org/abs/2405.19793) 
+* **PROC2PDDL: Open-Domain Planning Representations From Texts** [![arXiv](https://img.shields.io/badge/arXiv-2024.03-red)](https://arxiv.org/abs/2403.00092) 
+* **Leveraging Environment Interaction For Automated PDDL Translation And Planning With Large Language Models** [![NIPS](https://img.shields.io/badge/NIPS-2024-red)](https://arxiv.org/abs/2407.12979) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/BorealisAI/llm-pddl-planning) 
+* **Position: Llms Can’t Plan, But Can Help Planning In LLM-Modulo Frameworks** [![ICML](https://img.shields.io/badge/ICML-2024-red)](https://arxiv.org/abs/2402.01817)
+* **Memorybank: Enhancing Large Language Models With Long-Term Memory** [![AAAI](https://img.shields.io/badge/AAAI-2024-red)](https://arxiv.org/abs/2305.10250)
+* **Explicit Memory Learning With Expectation Maximization** [![EMNLP](https://img.shields.io/badge/EMNLP-2024-red)](https://aclanthology.org/2024.emnlp-main.927.pdf) 
+* **To The Globe (Ttg): Towards Language-Driven Guaranteed Travel Planning** [![EMNLP](https://img.shields.io/badge/EMNLP-2024-red)](https://arxiv.org/abs/2410.16456)
+* **Autoplanbench: Automatically Generating Benchmarks For LLM Planners From PDDL** [![arXiv](https://img.shields.io/badge/arXiv-2023.11-red)](https://arxiv.org/abs/2311.09830v2)
+* **Dynamic Planning With A LLM** [![arXiv](https://img.shields.io/badge/arXiv-2023.08-red)](https://arxiv.org/abs/2308.06391) [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
 * **LLM+P: Empowering Large Language Models with Optimal Planning Proficiency** [![arXiv](https://img.shields.io/badge/arXiv-2023.04-red)](https://arxiv.org/abs/2304.11477) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/Cranial-XIX/llm-pddl)
+* **Translating Natural Language To Planning Goals With Large-Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2023.02-red)](https://arxiv.org/abs/2302.05128)
 * **Generative Agents: Interactive Simulacra Of Human Behavior** [![UIST](https://img.shields.io/badge/UIST-2023-red)](https://arxiv.org/abs/2304.03442) 
 * **Think Before You Act: Decision Transformers With Working Memory** [![ICML](https://img.shields.io/badge/ICML-2023-red)](https://arxiv.org/abs/2305.16338) 
-* **Memorybank: Enhancing Large Language Models With Long-Term Memory** [![AAAI](https://img.shields.io/badge/AAAI-2024-red)](https://arxiv.org/abs/2305.10250) 
 * **Leveraging Pre-Trained Large Language Models To Construct And Utilize World Models For Model-Based Task Planning** [![NIPS](https://img.shields.io/badge/nips-2023-red)](https://arxiv.org/abs/2305.14909) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://guansuns.github.io/pages/llm-dm/)
 * **Synapse: Trajectory-As-Exemplar Prompting With Memory For Computer Control** [![ICLR](https://img.shields.io/badge/ICLR-2023-red)](https://arxiv.org/abs/2306.07863) 
 * **Coupling Large Language Models With Logic Programming For Robust And General Reasoning From Text** [![ACL](https://img.shields.io/badge/ACL-2023-red)](https://arxiv.org/abs/2307.07696) 
-* **Dynamic Planning With A LLM** [![arXiv](https://img.shields.io/badge/arXiv-2023.08-red)](https://arxiv.org/abs/2308.06391) [![Code](https://img.shields.io/badge/Code-GitHub-blue)]()
 * **Ldm2: A Large Decision Model Imitating Human Cognition With Dynamic Memory Enhancement** [![EMNLP](https://img.shields.io/badge/EMNLP-2023-red)](https://aclanthology.org/2023.findings-emnlp.309.pdf) 
 * **Learning Adaptive Planning Representations With Natural Language Guidance** [![arXiv](https://img.shields.io/badge/arXiv-2023-red)](https://arxiv.org/abs/2312.08566) 
-* **Autoplanbench: Automatically Generating Benchmarks For LLM Planners From PDDL** [![arXiv](https://img.shields.io/badge/arXiv-2023.11-red)](https://arxiv.org/abs/2311.09830v2)
 
 #### 1.1.2 Memory Enhanced Methods 
 
@@ -197,7 +196,7 @@ An overview of LLM-based agent planning, covering its definition, methods, evalu
 * **Grounded Decoding: Guiding Text Generation With Grounded Models For Embodied Agents** [![NIPS](https://img.shields.io/badge/NIPS-2024-red)](https://arxiv.org/abs/2303.00855) 
 * **Non-Myopic Generation Of Language Model For Reasoning And Planning** [![arXiv](https://img.shields.io/badge/arXiv-2024-red)](https://arxiv.org/abs/2410.17195) 
 * **Chain-Of-Thought Prompting Elicits Reasoning In Large Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2022-red)](https://arxiv.org/abs/2201.11903)
-* 
+  
 ## 2 Planning Evaluation
 ### 2.1 Datasets
 #### 2.1.1 Digital Scenarios
