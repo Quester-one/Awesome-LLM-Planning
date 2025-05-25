@@ -108,7 +108,7 @@ An overview of LLM-based agent planning, covering its definition, methods, evalu
   <img src="docs/feedback.png" width="60%" height="60%" />
 </p>
 
-* **Gui-R1: A Generalist R1-Style Vision-Language Action Model For Gui Agents** [![arXiv](https://img.shields.io/badge/arXiv-2025.04-red)](https://arxiv.org/abs/2504.10458) [![Code](https://img.shields.io/badge/Code-GitHub-blue)]((https://github.com/ritzz-ai/GUI-R1))
+* **Gui-R1: A Generalist R1-Style Vision-Language Action Model For Gui Agents** [![arXiv](https://img.shields.io/badge/arXiv-2025.04-red)](https://arxiv.org/abs/2504.10458) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/ritzz-ai/GUI-R1)
 * **Flow Of Reasoning: Training Llms For Divergent Problem Solving With Minimal Examples** [![ICML](https://img.shields.io/badge/ICML-2025-red)](https://arxiv.org/abs/2406.05673) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/Yu-Fangxu/FoR)
 * **Infigui-R1: Advancing Multimodal Gui Agents From Reactive Actors To Deliberative Reasoners** [![arXiv](https://img.shields.io/badge/arXiv-2025.04-red)](https://arxiv.org/abs/2504.14239) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/Reallm-Labs/InfiGUI-R1)
 * **Embodied-R: Collaborative Framework For Activating Embodied Spatial Reasoning In Foundation Models Via Reinforcement Learning** [![arXiv](https://img.shields.io/badge/arXiv-2025.04-red)](https://arxiv.org/abs/2504.12680)
