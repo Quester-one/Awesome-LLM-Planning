@@ -157,7 +157,8 @@ An overview of LLM-based agent planning, covering its definition, methods, evalu
 * **Optimizing Chain-Of-Thought Reasoning: Tackling Arranging Bottleneck Via Plan Augmentation** [![arXiv](https://img.shields.io/badge/arXiv-2024.10-red)](https://arxiv.org/abs/2410.16812) 
 * **Can We Further Elicit Reasoning In Llms? Critic-Guided Planning With Retrieval-Augmentation For Solving Challenging Tasks** [![arXiv](https://img.shields.io/badge/arXiv-2024.10-red)](https://arxiv.org/abs/2410.01428#:~:text=To%20address%20this%2C%20we%20introduce%20Critic-guided%20planning%20with,a%20problem%20by%20iteratively%20selecting%20and%20executing%20sub-goals.) 
 * **Oscar: Operating System Control Via State-Aware Reasoning And Re-Planning** [![arXiv](https://img.shields.io/badge/arXiv-2024.10-red)](https://arxiv.org/abs/2410.18963) 
-* **Plan-Rag: Planning-Guided Retrieval Augmented Generation** [![arXiv](https://img.shields.io/badge/arXiv-2024.10-red)](https://arxiv.org/abs/2410.20753) 
+* **Plan-Rag: Planning-Guided Retrieval Augmented Generation** [![arXiv](https://img.shields.io/badge/arXiv-2024.10-red)](https://arxiv.org/abs/2410.20753)
+* **Msi-Agent: Incorporating Multi-Scale Insight Into Embodied Agents For Superior Planning And Decision-Making** [![EMNLP](https://img.shields.io/badge/EMNLP-2024-red)](https://aclanthology.org/2024.emnlp-main.38/) 
 * **Travelagent: An AI Assistant For Personalized Travel Planning** [![arXiv](https://img.shields.io/badge/arXiv-2024.09-red)](https://arxiv.org/abs/2409.08069) 
 * **Meta-Task Planning For Language Agents** [![arXiv](https://img.shields.io/badge/arXiv-2024.05-red)](https://arxiv.org/abs/2405.16510v3) 
 * **A Human-Like Reasoning Framework For Multi-Phases Planning Task With Large Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2024.05-red)](https://arxiv.org/abs/2405.18208) 
@@ -174,7 +175,7 @@ An overview of LLM-based agent planning, covering its definition, methods, evalu
 * **Interpretable Math Word Problem Solution Generation Via Step-By-Step Planning** [![ACL](https://img.shields.io/badge/ACL-2023-red)](https://aclanthology.org/2023.acl-long.379/)
 * **Deductive Additivity For Planning Of Natural Language Proofs** [![ACL](https://img.shields.io/badge/ACL-2023-red)](https://aclanthology.org/2023.nlrse-1.11/)
 * **Least-To-Most Prompting Enables Complex Reasoning In Large Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2022.05-red)](https://arxiv.org/abs/2205.10625) 
-* **Msi-Agent: Incorporating Multi-Scale Insight Into Embodied Agents For Superior Planning And Decision-Making** [![EMNLP](https://img.shields.io/badge/EMNLP-2024-red)](https://aclanthology.org/2024.emnlp-main.38/)
+
 #### 1.3.2 Exploration-based Methods
 
 <p>
