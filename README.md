@@ -167,7 +167,7 @@ An overview of LLM-based agent planning, covering its definition, methods, evalu
 * **Rada: Retrieval-Augmented Web Agent Planning With Llms** [![ACL](https://img.shields.io/badge/ACL-2024-red)](https://aclanthology.org/2024.findings-acl.802/) 
 * **Thoughts To Target: Enhance Planning For Target-Driven Conversation** [![EMNLP](https://img.shields.io/badge/EMNLP-2024-red)](https://aclanthology.org/2024.emnlp-main.1175/) 
 * **Personal Large Language Model Agents: A Case Study On Tailored Travel Planning** [![EMNLP](https://img.shields.io/badge/EMNLP-2024-red)](https://aclanthology.org/2024.emnlp-industry.37/) 
-* **Strength Lies In Differences! Improving Strategy Planning For Non-Collaborative Dialogues Via Diversified User Simulation** [![arXiv](https://img.shields.io/badge/arXiv-2024.03-red)](https://aclanthology.org/2024.emnlp-main.26/) 
+* **Strength Lies In Differences! Improving Strategy Planning For Non-Collaborative Dialogues Via Diversified User Simulation** [![EMNLP](https://img.shields.io/badge/EMNLP-2024-red)](https://aclanthology.org/2024.emnlp-main.26/) 
 * **Protrix: Building Models For Planning And Reasoning Over Tables With Sentence Context** [![arXiv](https://img.shields.io/badge/arXiv-2024-red)](https://arxiv.org/abs/2403.02177) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/WilliamZR/ProTrix)
 * **Adapt: As-Needed Decomposition And Planning With Language Models** [![arXiv](https://img.shields.io/badge/arXiv-2023.11-red)](https://arxiv.org/abs/2311.05772)
 * **Hugginggpt: Solving AI Tasks With Chatgpt And Its Friends In Hugging Face** [![NIPS](https://img.shields.io/badge/NIPS-2023-red)](https://arxiv.org/abs/2303.17580) 
