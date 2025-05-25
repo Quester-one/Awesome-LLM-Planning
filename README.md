@@ -99,7 +99,7 @@ An overview of LLM-based agent planning, covering its definition, methods, evalu
 * **Beyond A\*: Better Planning With Transformers Via Search Dynamics Bootstrapping** [![arXiv](https://img.shields.io/badge/arXiv-2024.02-red)](https://arxiv.org/abs/2402.14083) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/facebookresearch/searchformer)
 * **Autoact: Automatic Agent Learning From Scratch Via Self-Planning** [![ACL](https://img.shields.io/badge/ACL-2024-red)](https://arxiv.org/abs/2401.05268) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/zjunlp/AutoAct)
 * **Adapting LLM Agents With Universal Feedback In Communication** [![NAACL](https://img.shields.io/badge/NAACL-2024-red)](https://arxiv.org/abs/2310.01444)
-* **You Only Look At Screens: Multimodal Chain-Of-Action Agents** [![ACL](https://img.shields.io/badge/ACL-2024-red)]([https://arxiv.org/abs/2309.11436](https://aclanthology.org/2024.findings-acl.186.pdf)) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/cooelf/Auto-GUI)
+* **You Only Look At Screens: Multimodal Chain-Of-Action Agents** [![ACL](https://img.shields.io/badge/ACL-2024-red)](https://aclanthology.org/2024.findings-acl.186.pdf) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/cooelf/Auto-GUI)
 * **Fireact: Toward Language Agent Fine-Tuning** [![arXiv](https://img.shields.io/badge/arXiv-2023.10-red)](https://arxiv.org/abs/2310.05915) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://fireact-agent.github.io/)
 * **Training Verifiers To Solve Math Word Problems** [![arXiv](https://img.shields.io/badge/arXiv-2021.10-red)](https://arxiv.org/abs/2110.14168)
 #### 1.2.2 Feedback-based Methods
