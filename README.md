@@ -416,4 +416,3 @@ The performance comparison of different models and methods in embodied.This refe
 * **ALPINE: Unveiling the Planning Capability of Autoregressive Learning in Language Models** [![NeurIPS](https://img.shields.io/badge/NeurIPS-2024-red)](https://arxiv.org/abs/2405.09220)
 * **Iteration Head: A Mechanistic Study of Chain-of-Thought** [![NeurIPS](https://img.shields.io/badge/NeurIPS-2024-red)](https://arxiv.org/abs/2406.02128)
 
-The illustration of external interpretation and internal interpretation, respectively.
