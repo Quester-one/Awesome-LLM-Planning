@@ -1,8 +1,8 @@
-# A Comprehensive Survey on Large Language Model Based Planning
+# Large Language Models for Planning: A Comprehensive and Systematic Survey
 
 Welcome to the **Awesome-LLM-Planning** repository! This repository is a curated collection of the most influential papers, and benchmarks related to **Large Language Models (LLMs) based Agent Planning**. For a detailed introduction, please refer our survey paper:
 
-**A Comprehensive Survey on Large Language Model Based Planning** 
+**Large Language Models for Planning: A Comprehensive and Systematic Survey** 
 
 
 
@@ -31,7 +31,7 @@ An overview of LLM-based agent planning, covering its definition, methods, evalu
 * **Robust Planning With Compound LLM Architectures: An LLM-Modulo Approach** [![arXiv](https://img.shields.io/badge/arXiv-2024.11-red)](https://arxiv.org/abs/2411.14484) 
 * **Can Llms Plan Paths With Extra Hints From Solvers?** [![arXiv](https://img.shields.io/badge/arXiv-2024.10-red)](https://arxiv.org/abs/2410.05045) 
 * **Planetarium: A Rigorous Benchmark For Translating Text To Structured Planning Languages** [![NAACL](https://img.shields.io/badge/NAACL-2024-red)](https://aclanthology.org/2025.naacl-long.560/)
-* **Dynamic Planning With A LLM** [![NeurIPSW](https://img.shields.io/badge/NeurIPSW-2024-red)](https://arxiv.org/abs/2308.06391)
+* **Dynamic Planning With A LLM** [![NeurIPS Workshop](https://img.shields.io/badge/NeurIPSW-2024-red)](https://arxiv.org/abs/2308.06391)
 * **Trip-Pal: Travel Planning With Guarantees By Combining Large Language Models And Automated Planners** [![arXiv](https://img.shields.io/badge/arXiv-2024.06-red)](https://arxiv.org/abs/2406.10196) 
 * **PDDLEGO: Iterative Planning In Textual Environments** [![StarSEM](https://img.shields.io/badge/StarSEM-2024-red)](https://aclanthology.org/2024.starsem-1.17.pdf) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/zharry29/pddlego-pf)
 * **PROC2PDDL: Open-Domain Planning Representations From Texts** [![NLRSE](https://img.shields.io/badge/NLRSE-2024-red)]([https://arxiv.org/abs/2403.00092](https://aclanthology.org/2024.nlrse-1.2/)) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/zharry29/proc2pddl)
@@ -394,6 +394,11 @@ The performance comparison of different models and methods in web navigation.The
 The performance comparison of different models and methods in embodied.This refers to the average of seen and unseen in the original paper, or the value reported in the original paper.
 
 ## 3 Analysis And Interpretation
+
+<p align="center">
+  <img src="docs/interpretation.png" width="50%" height="50%" />
+</p>
+
 ### 3.1 External Interpretation
 * **Revealing the Barriers of Language Agents in Planning** [![NAACL](https://img.shields.io/badge/NAACL-2025-red)](https://arxiv.org/abs/2410.12409) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/hsaest/Agent-Planning-Analysis)
 * **To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning** [![ICLR](https://img.shields.io/badge/ICLR-2025-red)](https://arxiv.org/abs/2409.12183) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/Zayne-sprague/To-CoT-or-not-to-CoT)
@@ -411,7 +416,4 @@ The performance comparison of different models and methods in embodied.This refe
 * **ALPINE: Unveiling the Planning Capability of Autoregressive Learning in Language Models** [![NeurIPS](https://img.shields.io/badge/NeurIPS-2024-red)](https://arxiv.org/abs/2405.09220)
 * **Iteration Head: A Mechanistic Study of Chain-of-Thought** [![NeurIPS](https://img.shields.io/badge/NeurIPS-2024-red)](https://arxiv.org/abs/2406.02128)
 
-<p align="center">
-  <img src="docs/interpretation.png" width="50%" height="50%" />
-</p>
 The illustration of external interpretation and internal interpretation, respectively.
