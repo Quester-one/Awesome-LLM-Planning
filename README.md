@@ -2,7 +2,7 @@
 
 Welcome to the **Awesome-LLM-Planning** repository! This repository contains a collection of the most influential papers, and benchmarks related to **Large Language Models (LLMs) based Agent Planning**. For a detailed introduction, please refer our survey paper:
 
-**Large Language Models for Planning: A Comprehensive and Systematic Survey** 
+**Large Language Models for Planning: A Comprehensive and Systematic Survey** [![arXiv](https://img.shields.io/badge/arXiv-2025.04-red)](https://arxiv.org/abs/2505.19683) 
 
 
 
