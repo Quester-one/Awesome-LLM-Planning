@@ -8,7 +8,7 @@ Welcome to the **Awesome-LLM-Planning** repository! This repository contains a c
 
 
 <p>
-  <img src="docs/overview.png" width="95%" height="95%" />
+  <img src="docs/overview.png" width="95%" />
 </p>
 An overview of LLM-based agent planning, covering its definition, methods, evaluation approaches, and analysis and interpretation.
 
@@ -22,7 +22,7 @@ An overview of LLM-based agent planning, covering its definition, methods, evalu
 
 
 <p>
-  <img src="docs/external_module.png" width="95%" height="95%" />
+  <img src="docs/external_module.png" width="95%" />
 </p>
 
 #### 1.1.1 Planner Enhanced Methods 
@@ -72,7 +72,7 @@ An overview of LLM-based agent planning, covering its definition, methods, evalu
 #### 1.2.1 Imitation Learning-based Methods 
 
 <p>
-  <img src="docs/imitation.png" width="60%" height="60%" />
+  <img src="docs/imitation.png" width="60%"  />
 </p>
 
 * **Opencodereasoning: Advancing Data Distillation For Competitive Coding** [![arXiv](https://img.shields.io/badge/arXiv-2025.04-red)](https://arxiv.org/abs/2504.01943)
@@ -106,7 +106,7 @@ An overview of LLM-based agent planning, covering its definition, methods, evalu
 #### 1.2.2 Feedback-based Methods
 
 <p>
-  <img src="docs/feedback.png" width="60%" height="60%" />
+  <img src="docs/feedback.png" width="60%" />
 </p>
 
 * **Gui-R1: A Generalist R1-Style Vision-Language Action Model For Gui Agents** [![arXiv](https://img.shields.io/badge/arXiv-2025.04-red)](https://arxiv.org/abs/2504.10458) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/ritzz-ai/GUI-R1)
@@ -150,7 +150,7 @@ An overview of LLM-based agent planning, covering its definition, methods, evalu
 #### 1.3.1 Decomposition-based Methods
 
 <p>
-  <img src="docs/decomposition.png" width="80%" height="80%" />
+  <img src="docs/decomposition.png" width="80%"  />
 </p>
 
 * **Verilogcoder: Autonomous Verilog Coding Agents With Graph-Based Planning And Abstract Syntax Tree (Ast)-Based Waveform Tracing Tool** [![AAAI](https://img.shields.io/badge/AAAI-2025-red)](https://arxiv.org/abs/2408.08927) [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/NVlabs/VerilogCoder)
@@ -180,7 +180,7 @@ An overview of LLM-based agent planning, covering its definition, methods, evalu
 #### 1.3.2 Exploration-based Methods
 
 <p>
-  <img src="docs/exploration.png" width="80%" height="80%" />
+  <img src="docs/exploration.png" width="80%" />
 </p>
 
 * **Worldcoder, A Model-Based LLM Agent: Building World Models By Writing Code And Interacting With The Environment** [![NeurIPS](https://img.shields.io/badge/NeurIPS-2025-red)](https://arxiv.org/abs/2402.12275) 
@@ -347,7 +347,7 @@ An overview of LLM-based agent planning, covering its definition, methods, evalu
 ### 2.2 Evaluation Metrics
 
 <p align="center">
-  <img src="docs/sankeydiagram.png" width="95%" height="95%" />
+  <img src="docs/sankeydiagram.png" width="95%"  />
 </p>
 The corresponding relationship between planning evaluation metrics and some typical planning datasets. The left three columns represent evaluation metrics of different granularities, while the rightmost column denotes the dataset.
 
@@ -374,7 +374,7 @@ The corresponding relationship between planning evaluation metrics and some typi
 
 
 <p align="center">
-  <img src="docs/WebNavigationPerformance.png" width="95%" height="95%" />
+  <img src="docs/WebNavigationPerformance.png" width="95%"  />
 </p>
 The performance comparison of different models and methods in web navigation.The value of Mind2Web is the average step success rate of the three subsets.The value of Webarena is task successrate.The value of AITW is step success rate of the subsets.The value of ScreenSpot is step success rate.
 
@@ -390,14 +390,14 @@ The performance comparison of different models and methods in web navigation.The
 * **AgentTuning: Enabling Generalized Agent Abilities for LLMs** [![ACL](https://img.shields.io/badge/ACL-2024-red)](https://arxiv.org/abs/2310.12823) [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/THUDM/AgentTuning)
 
 <p align="center">
-  <img src="docs/EmbodiedScenariosPerformance.png" width="65%" height="65%" />
+  <img src="docs/EmbodiedScenariosPerformance.png" width="65%" />
 </p>
 The performance comparison of different models and methods in embodied.This refers to the average of seen and unseen in the original paper, or the value reported in the original paper.
 
 ## 3 Analysis And Interpretation
 
 <p align="center">
-  <img src="docs/interpretation.png" width="50%" height="50%" />
+  <img src="docs/interpretation.png" width="50%"  />
 </p>
 
 ### 3.1 External Interpretation
